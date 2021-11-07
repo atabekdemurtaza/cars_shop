@@ -2,6 +2,7 @@ from django.db import models
 from datetime import datetime
 from ckeditor.fields import RichTextField
 from multiselectfield import MultiSelectField
+import uuid 
 
 class Car(models.Model):
 
@@ -120,6 +121,7 @@ class Car(models.Model):
 	no_of_owners = models.CharField(max_length=100, verbose_name='Владелец')
 	is_featured = models.BooleanField(max_length=100, verbose_name='Представлен', default=False )
 	created_date = models.DateTimeField(default=datetime.now, blank=True, verbose_name='Дата выпуска')
+    
 
 	def __str__(self):
 
