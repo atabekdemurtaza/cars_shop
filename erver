@@ -1,0 +1,66 @@
+[33mcommit be45befe3da45c307aac7c9c0d1a5f480be30348[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: fbc439c 063425e
+Author: atabekdemurtaza <mychannel21war@gmail.com>
+Date:   Mon Nov 8 01:22:26 2021 +0500
+
+    Merge branch 'master' of https://github.com/atabekdemurtaza/cars_shop
+
+[33mcommit fbc439c9279f335a8272960142f6be726ede2a98[m
+Author: atabekdemurtaza <mychannel21war@gmail.com>
+Date:   Mon Nov 8 01:21:55 2021 +0500
+
+    Commit 2
+
+[33mcommit 063425e6db0e96334cf41cb9895de4e8e82d3cd3[m
+Author: Atabek de Murtaza <mychannel21war@gmail.com>
+Date:   Sun Nov 7 23:53:43 2021 +0500
+
+    Adding Uzb Cars
+
+[33mcommit f2d5883b3edaeb80adf6f6ef7b5bfa91cdf34634[m
+Author: atabekdemurtaza <mychannel21war@gmail.com>
+Date:   Fri Nov 5 03:45:42 2021 +0500
+
+    Adding car details
+
+[33mcommit fbad408d8b665b57f34aeddf9353057937a7b46f[m
+Author: atabekdemurtaza <mychannel21war@gmail.com>
+Date:   Wed Nov 3 01:58:41 2021 +0500
+
+    Adding two cars
+
+[33mcommit 3068986dfc9c249b0fe7b86f8ecb1f727ace57f9[m
+Author: atabekdemurtaza <mychannel21war@gmail.com>
+Date:   Tue Nov 2 01:56:45 2021 +0500
+
+    Adding Cars
+
+[33mcommit b5dbcb8588c1ec48e560302cf60d709afe4b41c5[m
+Author: atabekdemurtaza <mychannel21war@gmail.com>
+Date:   Wed Oct 27 00:01:37 2021 +0500
+
+    Completed Teams model
+
+[33mcommit 5863c1549c66459bcd142063818a7574a311b805[m
+Author: atabekdemurtaza <mychannel21war@gmail.com>
+Date:   Sat Oct 23 20:26:20 2021 +0500
+
+    created pages and configured navigation links
+
+[33mcommit c164334b4baee712651e0dc85ea600a1c9ea9f65[m
+Author: atabekdemurtaza <mychannel21war@gmail.com>
+Date:   Fri Oct 22 02:51:43 2021 +0500
+
+    adding files
+
+[33mcommit f51b3448744c36f6e9a0283b786f03a5f435ffdd[m
+Author: atabekdemurtaza <mychannel21war@gmail.com>
+Date:   Thu Oct 21 11:56:02 2021 +0500
+
+    tested git status
+
+[33mcommit 3da5c5996a4034ada64da2643973fc62258e1589[m
+Author: atabekdemurtaza <mychannel21war@gmail.com>
+Date:   Thu Oct 21 11:46:25 2021 +0500
+
+    my first commit
